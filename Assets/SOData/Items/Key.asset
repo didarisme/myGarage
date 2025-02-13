@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8e1354b0c21f42b79a0ad5a8256f6a5, type: 3}
+  m_Name: Key
+  m_EditorClassIdentifier: 
+  itemName: Garage Key
+  itemsInStack: 1
+  dropAmount: 1
+  actionType: 2
+  itemPrefab:
+  - {fileID: 253892436053397924, guid: c98e46cfeaf5b4e879e6168e73915813, type: 3}
+  image: {fileID: 21300000, guid: 1c8495c7a71324a5888a89b973662e3e, type: 3}
+  description: Key of my garage
